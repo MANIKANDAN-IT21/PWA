@@ -1,0 +1,51 @@
+{
+  "name": "Dev'Coffee",
+  "short_name": "DevCoffee",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/coffe-72.jpg",
+      "type": "image/jpg",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/images/coffe-96.jpg",
+      "type": "image/jpg",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/images/coffe-128.jpg",
+      "type": "image/jpg",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/images/coffe-144.jpg",
+      "type": "image/jpg",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/images/coffes-152.jpg",
+      "type": "image/jpg",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/images/coffes-192.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/coffes-384.jpg",
+      "type": "image/jpg",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/images/coffes-512.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ]
+}
